@@ -4,9 +4,9 @@ import { ThemeProvider } from "@/components/theme-provider"
 import { Toaster } from "@/components/ui/toaster"
 
 export const metadata = {
-  title: "ShopStyle - Modern Shopping Experience",
-  description: "A modern e-commerce platform with the latest fashion trends",
-    generator: 'v0.dev'
+  title: "ShopStyle - Modern Shopping Experience Demo",
+  description: "A modern e-commerce platform demo with the latest fashion trends",
+   
 }
 
 export default function RootLayout({
